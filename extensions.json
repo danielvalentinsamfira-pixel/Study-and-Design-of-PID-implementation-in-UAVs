@@ -10,8 +10,8 @@ WiFiServer server(80);
 
 #define WIFI_TIMEOUT_MS 20000
 
-const char* ssid = "Quedusalzerr";
-const char* password = "667MMSovg";
+const char* ssid = "Samfira_Daniel";
+const char* password = "MecatronicaEngleza";
 
 volatile uint16_t throttleCmd = 1000, prevThrottle;
 volatile int killFlag = 0;
